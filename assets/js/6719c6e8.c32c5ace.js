@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyma_16_doc=self.webpackChunkyma_16_doc||[]).push([[888],{3003:a=>{a.exports=JSON.parse('{"title":"Tutorial - Basics","description":"666","slug":"/category/tutorial---basics","permalink":"/my-docs/docs/category/tutorial---basics","navigation":{"next":{"title":"Create a Page","permalink":"/my-docs/docs/tutorial-basics/create-a-page"}}}')}}]);
